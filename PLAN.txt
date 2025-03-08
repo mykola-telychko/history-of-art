@@ -1,1 +1,4 @@
 each video must have links (video/playlist)
+
+DESIGN 
+https://github.com/mykola-telychko/web-design-examples/tree/main/templates/history-art
